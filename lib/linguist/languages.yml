@@ -68,6 +68,13 @@ ABNF:
   - ".abnf"
   tm_scope: source.abnf
   language_id: 429
+ASL:
+  type: programming
+  ace_mode: text
+  extensions:
+  - ".asl"
+  - ".dsl"
+  tm_scope: source.asl
 AGS Script:
   type: programming
   color: "#B9D9FF"
